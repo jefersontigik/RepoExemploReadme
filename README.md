@@ -21,6 +21,10 @@ Sou um desenvolvedor front-end Python intermediário, atuando como web developer
 
 ![VSCode logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-### 3. Versionador:
+### 4. Versionador:
 
 ![GitHub logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 5. 📊 GitHub Stats:
+
+https://github-readme-stats.vercel.app/api?username=jefersontigik&theme=blue-green
