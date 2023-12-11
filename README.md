@@ -27,4 +27,5 @@ Sou um desenvolvedor front-end Python intermediário, atuando como web developer
 
 ### 5. 📊 GitHub Stats:
 
-https://github-readme-stats.vercel.app/api?username=jefersontigik&theme=blue-green
+![Stats](https://github-readme-stats.vercel.app/api?username=jefersontigik&theme=blue-green)
+
