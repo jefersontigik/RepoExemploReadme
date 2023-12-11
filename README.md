@@ -1,1 +1,3 @@
-# RepoExemploReadme
+# Welcome to my profile!! 
+
+Sou um desenvolvedor front-end Python intermediário, atuando como web developer, tenho habilidades técnicas sólidas em linguagens como HTML5, CSS3 e JavaScript. Além disso, tenho habilidade em Bootstrap framework, Visual Studio Code e sistemas de controle de versão, como GitHub. Além disso, sou hábil em resolução de problemas. Facilidade de comunicação interpessoal, assim como capacidade de trabalhar em equipe e colaborar efetivamente com outros membros.
